@@ -1,13 +1,14 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Chozha",
+		"leaderName": "RajarajaChozha",
+		"adjective": ["Chozhan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Askia",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "This is anation  of power. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
@@ -27,12 +28,16 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [150,200,50],
+		"innerColor": [50,100,250],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Kings of Justice",
+		"unique": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <when defending> <for [Embarked] units>",
+			"[{Military} {Land}] units gain the [Amphibious] promotion", "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Thanjai","Madhurai","Vanchi","Kanchi","Karuvur","Uraiyur","Cholapuram","Nellai","Kudanthai","Mamallai","Korkai",
+			"Thondi","Musiri","Nagai","Thillai","Poompuhar","Alagankulam","","Pudukottai","Tiruchirappalli","Kanyakumari",
+			"Manjanadu","Kumarakom","Thiruvanamalai","Kayalpattinam","Venadu","Aynadu","Kodanadu","Kongunadu","Ezhilnadu","Thagadur",
+			"Thondainadu","Aravanadu","Panjinadu","Kuttanadu","Kollimalai","Parambumalai","Karkainadi","Punnadu","Puzhinadu"]
 	}
 ]
