@@ -32,12 +32,17 @@
 		"innerColor": [50,100,250],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Kings of Justice",
-		"unique": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "[+100]% Strength <when defending> <for [Embarked] units>",
-			"[{Military} {Land}] units gain the [Amphibious] promotion", "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"unique": ["Receive triple Gold from Barbarian encampments and pillaging Cities",
+			"[+100]% Strength <when defending> <for [Embarked] units>",
+			"[{Military} {Land}] units gain the [Amphibious] promotion",
+			"Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+			"May choose [1] additional belief(s) of any type when [founding] a religion",
+			"[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast"],
 		"cities": ["Thanjai","Madhurai","Vanchi","Kanchi","Karuvur","Uraiyur","Cholapuram","Nellai","Kudanthai","Mamallai","Korkai",
 			"Thondi","Musiri","Nagai","Thillai","Poompuhar","Alagankulam","","Pudukottai","Tiruchirappalli","Kanyakumari",
 			"Manjanadu","Kumarakom","Thiruvanamalai","Kayalpattinam","Venadu","Aynadu","Kodanadu","Kongunadu","Ezhilnadu","Thagadur",
-			"Thondainadu","Aravanadu","Panjinadu","Kuttanadu","Kollimalai","Parambumalai","Karkainadi","Punnadu","Puzhinadu"]
+			"Thondainadu","Aravanadu","Panjinadu","Kuttanadu","Kollimalai","Parambumalai","Karkainadi","Punnadu","Puzhinadu"],
+		"spyNames": ["Ellalan","Kovalan","Marudhan","Idumban","Komban","Pamban","Velan","Villan","Valavan","Karudan"]
 	}
 ]
