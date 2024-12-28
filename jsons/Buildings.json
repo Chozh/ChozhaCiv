@@ -26,7 +26,6 @@
 		"uniques": ["[+1 Production, +1 Science] [in this city] <with [Iron]>",
 			"[+1 Production, +1 Science] [in this city] <with [Aluminum]>",
 			"[+1 Production, +1 Science] [in this city] <with [Oil]>",
-			"[+1 Production, +1 Science] [in this city] <with [Horse]>",
             "Destroyed when the city is captured"]
     },
     {
