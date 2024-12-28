@@ -32,12 +32,12 @@
     {
         "name": "Kallanai",
         "uniqueTo": "Chozha",
-	"greatPersonPoints": {"Great Engineer": 1},
         "isWonder": "true",
         "requiredTech": "Masonry",
         "production": 2,
         "food": 2,
         "uniques": ["Provides [2] [Iron]",
+	    "[Gold] cost of purchasing items in cities [25]%",
             "[+1 Culture, +1 Science, +1 Happiness, +1 Faith, +1 Gold, +1 Food, +1 Production] [in all cities]",
             "Free [Great Engineer] appears",
             "Gain a free [Walls] [in this city]",
