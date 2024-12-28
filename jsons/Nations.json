@@ -28,8 +28,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [150,200,50],
-		"innerColor": [50,100,250],
+		"outerColor": [160,205,70],
+		"innerColor": [46,91,226],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Kings of Justice",
 		"unique": ["Receive triple Gold from Barbarian encampments and pillaging Cities",
