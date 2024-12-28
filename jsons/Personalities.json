@@ -1,34 +1,34 @@
 [
 	{
-		"name": "T'Challa",
-		"preferredVictoryType": "Scientific",
+		"name": "RajarajaChozha",
+		"preferredVictoryType": "Domination",
 
       "culture": 7,
-      "faith": 4,
+      "faith": 7,
       "food": 6,
-      "gold": 5,
-      "happiness": 6,
-      "production": 8,
-      "science": 10,
+      "gold": 7,
+      "happiness": 7,
+      "production": 7,
+      "science": 7,
 
-      "military": 2,
+      "military": 7,
       "aggressive": 1,
       "declareWar": 1,
-      "commerce": 2,
-      "diplomacy": 4,
-      "loyal": 8,
-      "expansion": 0,
+      "commerce": 8,
+      "diplomacy": 8,
+      "loyal": 7,
+      "expansion": 6,
 
       "priorities": {
-          "Tradition": 8,
+          "Tradition": 7,
           "Liberty": 2,
-          "Honor": 1,
+          "Honor": 4,
           "Commerce": 4,
           "Patronage": 2,
-          "Piety": 2,
-          "Rationalism": 8,
-          "Freedom": 10,
-          "Autocracy": 1,
+          "Piety": 4,
+          "Rationalism": 6,
+          "Freedom": 8,
+          "Autocracy": 3,
           "Order": 4
       }
   }
