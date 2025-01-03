@@ -3,14 +3,15 @@
         "name": "Kotthalam",
         "replaces": "Barracks",
 	"uniqueTo": "Chozha",
-	"faith": 1,
 	"culture": 1,
+	"science": 1
 	"cost": 30,
 	"maintenance": 1,
 	"requiredTech": "Pottery",
 	"uniques": ["Only available <when religion is enabled>",
             "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Ivory]>",
 	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Stone]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Horses]>",
 	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Cattle]>"]
     },
     {
@@ -19,13 +20,50 @@
 	"uniqueTo": "Chozha",
 	"faith": 1,
 	"culture": 1,
+	"science": 1
 	"cost": 30,
 	"maintenance": 1,
 	"requiredTech": "Pottery",
 	"uniques": ["Only available <when religion is enabled>",
             "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Ivory]>",
 	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Stone]>",
-	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Cattle]>"]
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Cattle]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Incense]>"]
+    },
+    {
+        "name": "ManiMandapam",
+        "replaces": "Amphitheater",
+	"uniqueTo": "Chozha",
+	"culture": 5,
+	"cost": 50,
+	"specialistSlots": { "Artist": 1 },
+	"maintenance": 1,
+	"requiredBuilding": "Monument",
+	"requiredTech": "Drama and Poetry"
+	"uniques": [
+            "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Silk]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Pearls]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Gems]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Gold Ore]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Spices]>",
+	    "[+1 Gold, +1 Production, +1 Faith] [in this city] <with [Jewelry]>"]
+    },
+    {
+        "name": "PalliSalai",
+        "replaces": "Library",
+	"uniqueTo": "Chozha",
+	"science": 2,
+	"cost": 50,
+	"maintenance": 1,
+	"requiredTech": "Writing"
+	"uniques": ["[+1 Science] per [1] Population [in this city]",
+            "[+1 Gold, +1 Science] [in this city] <with [Copper]>",
+	    "[+1 Gold, +1 Science] [in this city] <with [Cotton]>",
+	    "[+1 Gold, +1 Science] [in this city] <with [Dyes]>",
+	    "[+1 Gold, +1 Science] [in this city] <with [Cotton]>",
+	    "[+1 Gold, +1 Science] [in this city] <with [Gems]>",
+	    "[+1 Gold, +1 Science] [in this city] <with [Gold Ore]>",
+	    "[+1 Gold, +1 Science] [in this city] <with [Silk]>",]
     },
     {
         "name": "Padai Thalam",
@@ -41,6 +79,7 @@
 	    "[+1 Production, +1 Science] [in this city] <with [Aluminum]>",
 	    "[+1 Production, +1 Science] [in this city] <with [Oil]>",
 	    "[+1 Production, +1 Science] [in this city] <with [Coal]>",
+            "[+1 Production, +1 Science] [in this city] <with [Horses]>",
             "Destroyed when the city is captured"]
     },
     {
