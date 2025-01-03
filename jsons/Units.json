@@ -13,7 +13,7 @@
 		"obsoleteTech": "Compass",
 		"upgradesTo": "Galleass",
 		"uniques": ["Cannot enter ocean tiles"],
-		"promotions": ["Favorable Winds"],
+		"promotions": ["Bombardment I", "Bombardment II", "Targetting I", "Targetting II"],
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
@@ -28,8 +28,8 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"promotions": ["Shock I"],
-		"uniques": ["[+50]% Strength to Flank Attack bonuses","[-50]% Strength for enemy [Sword] units in adjacent [2] tiles","[+50]% XP gained from combat"],
+		"promotions": ["Shock I", "Drill I"],
+		"uniques": ["[+50]% Strength bonus for [Ranged] units within [2] tiles","[-50]% Strength for enemy [Land] units in adjacent [All] tiles","[+50]% XP gained from combat"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -45,7 +45,8 @@
 		"requiredTech": "Mining",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength to Flank Attack bonuses","[-50]% Strength for enemy [Mounted] units in adjacent [2] tiles","[+50]% XP gained from combat"],
+		"promotions": ["Shock I", "Drill I"],
+		"uniques": ["[+50]% Strength bonus for [Melee] units within [2] tiles","[-50]% Strength for enemy [Land] units in adjacent [All] tiles","[+50]% XP gained from combat"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -59,6 +60,7 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Iron Working",
 		"upgradesTo": "Swordsman",
+		"promotions": ["Shock I", "Drill I"],
 		"uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
 	},
@@ -73,6 +75,7 @@
 		"requiredTech": "Trapping",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
+		"promotions": ["Shock I", "Drill I"],
 		"uniques": ["Can move after attacking","Consumes [1] [Horses]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -89,7 +92,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"promotions": ["Accuracy I"],
+		"promotions": ["Accuracy I", "Barrage I"],
 		"attackSound": "arrow"
   }
 ]
