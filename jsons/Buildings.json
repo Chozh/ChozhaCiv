@@ -56,7 +56,7 @@
 	"cost": 50,
 	"maintenance": 1,
 	"requiredTech": "Writing"
-	"uniques": ["[+1 Science] per [1] Population [in this city]",
+	"uniques": ["[+1 Science] per [1] population [in this city]",
             "[+1 Gold, +1 Science] [in this city] <with [Copper]>",
 	    "[+1 Gold, +1 Science] [in this city] <with [Cotton]>",
 	    "[+1 Gold, +1 Science] [in this city] <with [Dyes]>",
@@ -96,16 +96,16 @@
             "Gain a free [Walls] [in this city]"],
         "quote": "The Kallanai dam was built with uneven stones on Kaveri river by Chola King Karikalan in 150 CE, to facilitate irrigation to the delta regions of Tamil Nadu to boost irrigation, an ancient marvel which enables to learn more about the Tamil archtecture and infrastructure in the Sangam period."
     }
-	{
+    {
         "name": "Peruvudaiyar Kovil",
         "uniqueTo": "Chozha",
         "isWonder": "true",
         "requiredTech": "Construction",
         "faith": 4,
         "culture": 4,
+	"science": 4,
 	"specialistSlots": {"Engineer": 1},
         "uniques": ["[+1 Culture] from [River] tiles [in all cities]",
-	    "1 Engineer slot",
             "Free [Great Engineer] appears",
             "Gain a free [Temple] [in this city]"],
         "quote": "Thanjai Peruvudaiyar Kovil is a temple for God Siva, built by RajarajaChozha I between 1003 and 1010 CE. it is built on moat with massive tower with 90 tone granite stone on top of it. Has inscriptions, frescoes, and sculptures predominantly related to Shaivism, but also of Vaishnavism and Shaktism."
