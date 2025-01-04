@@ -13,7 +13,7 @@
 		"obsoleteTech": "Compass",
 		"upgradesTo": "Galleass",
 		"uniques": ["Cannot enter ocean tiles"],
-		"promotions": ["Bombardment I", "Bombardment II", "Targetting I", "Targetting II"],
+		"promotions": ["Bombardment I", "Bombardment II", "Coastal Rider I", "Coastal Rider II"],
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
