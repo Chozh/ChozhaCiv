@@ -50,7 +50,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Kalatpadai",
+		"name": "KalatPadai",
 		"unitType": "Sword",
 		"uniqueTo": "Chozha",
 		"replaces": "Warrior",
@@ -79,20 +79,5 @@
 		"uniques": ["Can move after attacking","Consumes [1] [Horses]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
-	},
-	{	
-		"name": "Vilpadai",
-		"replaces": "Archer",
-		"unitType": "Archery",
-		"uniqueTo": "Chozha",
-		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 7,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
-		"promotions": ["Accuracy I", "Barrage I"],
-		"attackSound": "arrow"
-  }
+	}
 ]
