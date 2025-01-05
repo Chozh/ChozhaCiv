@@ -1,61 +1,61 @@
 
 game.png
-size: 1024, 1024
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Chozha
+BuildingIcons/Kallanai
   rotate: false
-  xy: 0, 0
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kovil
   rotate: false
-  xy: 100, 0
+  xy: 548, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Padai Thalam
   rotate: false
-  xy: 200, 0
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Kallanai
+NationIcons/tiger
   rotate: false
-  xy: 300, 0
+  xy: 656, 140
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/VelirPadai
-  rotate: false
-  xy: 0, 112
-  size: 128, 128
-  orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/KalatPadai
   rotate: false
-  xy: 128, 112
+  xy: 4, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Kattumaram
   rotate: false
-  xy: 256, 112
+  xy: 140, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/TherPadai
   rotate: false
-  xy: 384, 112
+  xy: 276, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/VelirPadai
+  rotate: false
+  xy: 412, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
