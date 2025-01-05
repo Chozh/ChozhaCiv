@@ -32,3 +32,17 @@ BuildingIcons/Kallanai
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/VelirPadai
+  rotate: false
+  xy: 0, 110
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/KalatPadai
+  rotate: false
+  xy: 128, 110
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
